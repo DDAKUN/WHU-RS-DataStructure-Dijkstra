@@ -1,0 +1,9 @@
+﻿  DIJKSTRA TEST.cpp
+C:\Users\DDA\source\repos\DIJKSTRA TEST\DIJKSTRA TEST\DIJKSTRA TEST.cpp(39,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\DDA\source\repos\DIJKSTRA TEST\DIJKSTRA TEST\DIJKSTRA TEST.cpp(58,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\DDA\source\repos\DIJKSTRA TEST\DIJKSTRA TEST\DIJKSTRA TEST.cpp(61,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\DDA\source\repos\DIJKSTRA TEST\DIJKSTRA TEST\DIJKSTRA TEST.cpp(69,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\DDA\source\repos\DIJKSTRA TEST\DIJKSTRA TEST\DIJKSTRA TEST.cpp(90,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\DDA\source\repos\DIJKSTRA TEST\DIJKSTRA TEST\DIJKSTRA TEST.cpp(92,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\DDA\source\repos\DIJKSTRA TEST\DIJKSTRA TEST\DIJKSTRA TEST.cpp(306,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  DIJKSTRA TEST.vcxproj -> C:\Users\DDA\source\repos\DIJKSTRA TEST\Debug\DIJKSTRA TEST.exe
